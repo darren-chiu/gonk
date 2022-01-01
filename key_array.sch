@@ -27,7 +27,7 @@ AR Path="/61DA821B/61C582CE" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C582CE" Ref="K42"  Part="1" 
 F 0 "K6" H 4150 4033 60  0000 C CNN
 F 1 "KEYSW" H 4150 3700 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 4150 3800 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 4150 3800 60  0001 C CNN
 F 3 "" H 4150 3800 60  0000 C CNN
 	1    4150 3800
 	1    0    0    -1  
@@ -63,7 +63,7 @@ AR Path="/61DA821B/61C582DE" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C582DE" Ref="K41"  Part="1" 
 F 0 "K5" H 4150 3383 60  0000 C CNN
 F 1 "KEYSW" H 4150 3050 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 4150 3150 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 4150 3150 60  0001 C CNN
 F 3 "" H 4150 3150 60  0000 C CNN
 	1    4150 3150
 	1    0    0    -1  
@@ -116,7 +116,7 @@ AR Path="/61DA821B/61C582F2" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C582F2" Ref="K37"  Part="1" 
 F 0 "K2" H 3200 4033 60  0000 C CNN
 F 1 "KEYSW" H 3200 3700 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 3200 3800 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 3200 3800 60  0001 C CNN
 F 3 "" H 3200 3800 60  0000 C CNN
 	1    3200 3800
 	1    0    0    -1  
@@ -152,7 +152,7 @@ AR Path="/61DA821B/61C58309" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C58309" Ref="K36"  Part="1" 
 F 0 "K1" H 3200 3383 60  0000 C CNN
 F 1 "KEYSW" H 3200 3050 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 3200 3150 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 3200 3150 60  0001 C CNN
 F 3 "" H 3200 3150 60  0000 C CNN
 	1    3200 3150
 	1    0    0    -1  
@@ -179,7 +179,7 @@ AR Path="/61DA821B/61C66FD8" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C66FD8" Ref="K52"  Part="1" 
 F 0 "K14" H 6100 4033 60  0000 C CNN
 F 1 "KEYSW" H 6100 3700 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 6100 3800 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 6100 3800 60  0001 C CNN
 F 3 "" H 6100 3800 60  0000 C CNN
 	1    6100 3800
 	1    0    0    -1  
@@ -215,7 +215,7 @@ AR Path="/61DA821B/61C66FF0" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C66FF0" Ref="K51"  Part="1" 
 F 0 "K13" H 6100 3383 60  0000 C CNN
 F 1 "KEYSW" H 6100 3050 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 6100 3150 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 6100 3150 60  0001 C CNN
 F 3 "" H 6100 3150 60  0000 C CNN
 	1    6100 3150
 	1    0    0    -1  
@@ -268,7 +268,7 @@ AR Path="/61DA821B/61C6700F" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C6700F" Ref="K47"  Part="1" 
 F 0 "K10" H 5150 4033 60  0000 C CNN
 F 1 "KEYSW" H 5150 3700 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 5150 3800 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 5150 3800 60  0001 C CNN
 F 3 "" H 5150 3800 60  0000 C CNN
 	1    5150 3800
 	1    0    0    -1  
@@ -305,7 +305,7 @@ AR Path="/61DA821B/61C6702C" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C6702C" Ref="K46"  Part="1" 
 F 0 "K9" H 5150 3383 60  0000 C CNN
 F 1 "KEYSW" H 5150 3050 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 5150 3150 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 5150 3150 60  0001 C CNN
 F 3 "" H 5150 3150 60  0000 C CNN
 	1    5150 3150
 	1    0    0    -1  
@@ -328,7 +328,7 @@ AR Path="/61DA821B/61C705C7" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C705C7" Ref="K62"  Part="1" 
 F 0 "K22" H 8100 4033 60  0000 C CNN
 F 1 "KEYSW" H 8100 3700 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 8100 3800 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 8100 3800 60  0001 C CNN
 F 3 "" H 8100 3800 60  0000 C CNN
 	1    8100 3800
 	1    0    0    -1  
@@ -364,7 +364,7 @@ AR Path="/61DA821B/61C705DF" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C705DF" Ref="K61"  Part="1" 
 F 0 "K21" H 8100 3383 60  0000 C CNN
 F 1 "KEYSW" H 8100 3050 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 8100 3150 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 8100 3150 60  0001 C CNN
 F 3 "" H 8100 3150 60  0000 C CNN
 	1    8100 3150
 	1    0    0    -1  
@@ -417,7 +417,7 @@ AR Path="/61DA821B/61C705FE" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C705FE" Ref="K57"  Part="1" 
 F 0 "K18" H 7150 4033 60  0000 C CNN
 F 1 "KEYSW" H 7150 3700 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 7150 3800 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 7150 3800 60  0001 C CNN
 F 3 "" H 7150 3800 60  0000 C CNN
 	1    7150 3800
 	1    0    0    -1  
@@ -453,7 +453,7 @@ AR Path="/61DA821B/61C7061B" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C7061B" Ref="K56"  Part="1" 
 F 0 "K17" H 7150 3383 60  0000 C CNN
 F 1 "KEYSW" H 7150 3050 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 7150 3150 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 7150 3150 60  0001 C CNN
 F 3 "" H 7150 3150 60  0000 C CNN
 	1    7150 3150
 	1    0    0    -1  
@@ -493,7 +493,7 @@ AR Path="/61DA821B/61C70662" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C70662" Ref="K67"  Part="1" 
 F 0 "K26" H 9100 4033 60  0000 C CNN
 F 1 "KEYSW" H 9100 3700 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 9100 3800 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 9100 3800 60  0001 C CNN
 F 3 "" H 9100 3800 60  0000 C CNN
 	1    9100 3800
 	1    0    0    -1  
@@ -529,7 +529,7 @@ AR Path="/61DA821B/61C7067D" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C7067D" Ref="K66"  Part="1" 
 F 0 "K25" H 9100 3383 60  0000 C CNN
 F 1 "KEYSW" H 9100 3050 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 9100 3150 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 9100 3150 60  0001 C CNN
 F 3 "" H 9100 3150 60  0000 C CNN
 	1    9100 3150
 	1    0    0    -1  
@@ -550,7 +550,7 @@ AR Path="/61DA821B/61C8DE48" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DE48" Ref="K44"  Part="1" 
 F 0 "K8" H 4150 5333 60  0000 C CNN
 F 1 "KEYSW" H 4150 5000 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 4150 5100 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 4150 5100 60  0001 C CNN
 F 3 "" H 4150 5100 60  0000 C CNN
 	1    4150 5100
 	1    0    0    -1  
@@ -586,7 +586,7 @@ AR Path="/61DA821B/61C8DE60" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DE60" Ref="K43"  Part="1" 
 F 0 "K7" H 4150 4683 60  0000 C CNN
 F 1 "KEYSW" H 4150 4350 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 4150 4450 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 4150 4450 60  0001 C CNN
 F 3 "" H 4150 4450 60  0000 C CNN
 	1    4150 4450
 	1    0    0    -1  
@@ -639,7 +639,7 @@ AR Path="/61DA821B/61C8DE7F" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DE7F" Ref="K39"  Part="1" 
 F 0 "K4" H 3200 5333 60  0000 C CNN
 F 1 "KEYSW" H 3200 5000 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 3200 5100 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 3200 5100 60  0001 C CNN
 F 3 "" H 3200 5100 60  0000 C CNN
 	1    3200 5100
 	1    0    0    -1  
@@ -675,7 +675,7 @@ AR Path="/61DA821B/61C8DE9C" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DE9C" Ref="K38"  Part="1" 
 F 0 "K3" H 3200 4683 60  0000 C CNN
 F 1 "KEYSW" H 3200 4350 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 3200 4450 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 3200 4450 60  0001 C CNN
 F 3 "" H 3200 4450 60  0000 C CNN
 	1    3200 4450
 	1    0    0    -1  
@@ -698,7 +698,7 @@ AR Path="/61DA821B/61C8DEAC" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DEAC" Ref="K54"  Part="1" 
 F 0 "K16" H 6100 5333 60  0000 C CNN
 F 1 "KEYSW" H 6100 5000 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 6100 5100 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 6100 5100 60  0001 C CNN
 F 3 "" H 6100 5100 60  0000 C CNN
 	1    6100 5100
 	1    0    0    -1  
@@ -734,7 +734,7 @@ AR Path="/61DA821B/61C8DEC4" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DEC4" Ref="K53"  Part="1" 
 F 0 "K15" H 6100 4683 60  0000 C CNN
 F 1 "KEYSW" H 6100 4350 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 6100 4450 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 6100 4450 60  0001 C CNN
 F 3 "" H 6100 4450 60  0000 C CNN
 	1    6100 4450
 	1    0    0    -1  
@@ -787,7 +787,7 @@ AR Path="/61DA821B/61C8DEE3" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DEE3" Ref="K49"  Part="1" 
 F 0 "K12" H 5150 5333 60  0000 C CNN
 F 1 "KEYSW" H 5150 5000 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 5150 5100 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 5150 5100 60  0001 C CNN
 F 3 "" H 5150 5100 60  0000 C CNN
 	1    5150 5100
 	1    0    0    -1  
@@ -825,7 +825,7 @@ AR Path="/61DA821B/61C8DF0F" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DF0F" Ref="K64"  Part="1" 
 F 0 "K24" H 8100 5333 60  0000 C CNN
 F 1 "KEYSW" H 8100 5000 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 8100 5100 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 8100 5100 60  0001 C CNN
 F 3 "" H 8100 5100 60  0000 C CNN
 	1    8100 5100
 	1    0    0    -1  
@@ -861,7 +861,7 @@ AR Path="/61DA821B/61C8DF27" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DF27" Ref="K63"  Part="1" 
 F 0 "K23" H 8100 4683 60  0000 C CNN
 F 1 "KEYSW" H 8100 4350 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 8100 4450 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 8100 4450 60  0001 C CNN
 F 3 "" H 8100 4450 60  0000 C CNN
 	1    8100 4450
 	1    0    0    -1  
@@ -914,7 +914,7 @@ AR Path="/61DA821B/61C8DF46" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DF46" Ref="K59"  Part="1" 
 F 0 "K20" H 7150 5333 60  0000 C CNN
 F 1 "KEYSW" H 7150 5000 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 7150 5100 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 7150 5100 60  0001 C CNN
 F 3 "" H 7150 5100 60  0000 C CNN
 	1    7150 5100
 	1    0    0    -1  
@@ -950,7 +950,7 @@ AR Path="/61DA821B/61C8DF61" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DF61" Ref="K58"  Part="1" 
 F 0 "K19" H 7150 4683 60  0000 C CNN
 F 1 "KEYSW" H 7150 4350 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 7150 4450 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 7150 4450 60  0001 C CNN
 F 3 "" H 7150 4450 60  0000 C CNN
 	1    7150 4450
 	1    0    0    -1  
@@ -986,7 +986,7 @@ AR Path="/61DA821B/61C8DFA6" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DFA6" Ref="K69"  Part="1" 
 F 0 "K28" H 9100 5333 60  0000 C CNN
 F 1 "KEYSW" H 9100 5000 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 9100 5100 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 9100 5100 60  0001 C CNN
 F 3 "" H 9100 5100 60  0000 C CNN
 	1    9100 5100
 	1    0    0    -1  
@@ -1022,7 +1022,7 @@ AR Path="/61DA821B/61C8DFC1" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DFC1" Ref="K68"  Part="1" 
 F 0 "K27" H 9100 4683 60  0000 C CNN
 F 1 "KEYSW" H 9100 4350 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 9100 4450 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 9100 4450 60  0001 C CNN
 F 3 "" H 9100 4450 60  0000 C CNN
 	1    9100 4450
 	1    0    0    -1  
@@ -1039,7 +1039,7 @@ AR Path="/61DA821B/61C8DEFE" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61C8DEFE" Ref="K48"  Part="1" 
 F 0 "K11" H 5150 4683 60  0000 C CNN
 F 1 "KEYSW" H 5150 4350 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 5150 4450 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 5150 4450 60  0001 C CNN
 F 3 "" H 5150 4450 60  0000 C CNN
 	1    5150 4450
 	1    0    0    -1  
@@ -1203,7 +1203,7 @@ AR Path="/61DA821B/61D1A840" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61D1A840" Ref="K45"  Part="1" 
 F 0 "K30" H 4150 5983 60  0000 C CNN
 F 1 "KEYSW" H 4150 5650 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 4150 5750 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 4150 5750 60  0001 C CNN
 F 3 "" H 4150 5750 60  0000 C CNN
 	1    4150 5750
 	1    0    0    -1  
@@ -1256,7 +1256,7 @@ AR Path="/61DA821B/61D1A85F" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61D1A85F" Ref="K40"  Part="1" 
 F 0 "K29" H 3200 5983 60  0000 C CNN
 F 1 "KEYSW" H 3200 5650 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 3200 5750 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 3200 5750 60  0001 C CNN
 F 3 "" H 3200 5750 60  0000 C CNN
 	1    3200 5750
 	1    0    0    -1  
@@ -1277,7 +1277,7 @@ AR Path="/61DA821B/61D1A86B" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61D1A86B" Ref="K55"  Part="1" 
 F 0 "K32" H 6100 5983 60  0000 C CNN
 F 1 "KEYSW" H 6100 5650 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 6100 5750 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 6100 5750 60  0001 C CNN
 F 3 "" H 6100 5750 60  0000 C CNN
 	1    6100 5750
 	1    0    0    -1  
@@ -1330,7 +1330,7 @@ AR Path="/61DA821B/61D1A88A" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61D1A88A" Ref="K50"  Part="1" 
 F 0 "K31" H 5150 5983 60  0000 C CNN
 F 1 "KEYSW" H 5150 5650 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 5150 5750 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 5150 5750 60  0001 C CNN
 F 3 "" H 5150 5750 60  0000 C CNN
 	1    5150 5750
 	1    0    0    -1  
@@ -1349,7 +1349,7 @@ AR Path="/61DA821B/61D1A895" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61D1A895" Ref="K65"  Part="1" 
 F 0 "K34" H 8100 5983 60  0000 C CNN
 F 1 "KEYSW" H 8100 5650 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 8100 5750 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 8100 5750 60  0001 C CNN
 F 3 "" H 8100 5750 60  0000 C CNN
 	1    8100 5750
 	1    0    0    -1  
@@ -1402,7 +1402,7 @@ AR Path="/61DA821B/61D1A8B4" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61D1A8B4" Ref="K60"  Part="1" 
 F 0 "K33" H 7150 5983 60  0000 C CNN
 F 1 "KEYSW" H 7150 5650 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 7150 5750 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 7150 5750 60  0001 C CNN
 F 3 "" H 7150 5750 60  0000 C CNN
 	1    7150 5750
 	1    0    0    -1  
@@ -1438,7 +1438,7 @@ AR Path="/61DA821B/61D1A8DE" Ref="K?"  Part="1"
 AR Path="/61DADF0D/61D1A8DE" Ref="K70"  Part="1" 
 F 0 "K35" H 9100 5983 60  0000 C CNN
 F 1 "KEYSW" H 9100 5650 60  0001 C CNN
-F 2 "keyswitches:SW_PG1350" H 9100 5750 60  0001 C CNN
+F 2 "gonk_footprint:Kailh_socket_PG1350" H 9100 5750 60  0001 C CNN
 F 3 "" H 9100 5750 60  0000 C CNN
 	1    9100 5750
 	1    0    0    -1  

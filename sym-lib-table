@@ -1,4 +1,7 @@
 (sym_lib_table
-  (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/gonk_lib/keyboard_parts.lib)(options "")(descr ""))
-  (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/gonk_lib/promicro.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri C:/Users/darre/Documents/gonk/lib/gonk_symbol/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri C:/Users/darre/Documents/gonk/lib/gonk_symbol/promicro.lib)(options "")(descr ""))
+  (lib (name SJ2-35894B-SMT-TR)(type Legacy)(uri ${KIPRJMOD}/lib/gonk_symbol/SJ2-35894B-SMT-TR.lib)(options "")(descr ""))
+  (lib (name MCU_RaspberryPi_RP2040)(type Legacy)(uri ${KIPRJMOD}/lib/gonk_symbol/MCU_RaspberryPi_RP2040.lib)(options "")(descr ""))
+  (lib (name gonk)(type Legacy)(uri ${KIPRJMOD}/lib/gonk_symbol/gonk.lib)(options "")(descr ""))
 )
